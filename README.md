@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## `Vehicle Renting System`
+## `ToDo App`
 
 In the project directory, you can  list your Todo's and later edit , complete and mark them as delete also.
 
